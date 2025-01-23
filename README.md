@@ -77,6 +77,9 @@
                 <li>Weather: <span id="weather">Loading...</span></li>
                 <li>Recent Comments: <ul id="comments"><li>Loading...</li></ul></li>
                 <!-- Add more tools as needed -->
+               <a href="https://www.instagram.com/tila_neko?igsh=dDFqOWpqdmNzYWYy" target="_blank">
+  <img src="path/ke/ikon/instagram.png" alt="Instagram">
+</a> 
             </ul>
         </div>
     </aside>
